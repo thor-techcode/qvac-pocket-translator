@@ -1,0 +1,11 @@
+﻿node_modules/
+.expo/
+.expo-shared/
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+*.log
+.DS_Store
+android/app/debug.keystore

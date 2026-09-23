@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Pocket Translator",
+    "slug": "qvac-pocket-translator",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "com.example.qvacpockettranslator"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "minSdkVersion": 29
+          }
+        }
+      ],
+      "@qvac/sdk/expo-plugin"
+    ]
+  }
+}

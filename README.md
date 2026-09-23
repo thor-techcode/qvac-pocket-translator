@@ -1,4 +1,4 @@
-﻿# Pocket Translator - QVAC Android
+# Pocket Translator - QVAC Android
 
 A deliberately small Android app demonstrating **local QVAC inference**.
 
@@ -73,15 +73,6 @@ qvac-pocket-translator/
 |---- tsconfig.json
 `---- README.md
 ```
-
-## Submission checklist
-
-1. Make at least 3 commits authored by you.
-2. Push this project to a **public** GitHub repository.
-3. Run the Android app on a physical device.
-4. Capture a screenshot or short recording with a translated result visible.
-5. Post on X with the repository link and tag `@qvac`.
-6. Submit the GitHub URL and X URL.
 
 ## Notes
 

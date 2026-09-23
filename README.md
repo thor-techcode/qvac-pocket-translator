@@ -1,4 +1,4 @@
-# Pocket Translator — QVAC Android
+﻿# Pocket Translator - QVAC Android
 
 A deliberately small Android app demonstrating **local QVAC inference**.
 
@@ -66,12 +66,12 @@ QVAC's current Expo documentation requires a physical device because its llama.c
 
 ```text
 qvac-pocket-translator/
-├── App.tsx
-├── app.json
-├── package.json
-├── qvac.config.json
-├── tsconfig.json
-└── README.md
+|---- App.tsx
+|---- app.json
+|---- package.json
+|---- qvac.config.json
+|---- tsconfig.json
+`---- README.md
 ```
 
 ## Submission checklist
@@ -88,3 +88,4 @@ qvac-pocket-translator/
 The QVAC model is downloaded on first use. The repository itself does not contain model weights, so the GitHub repository stays small.
 
 This project intentionally does not add a backend, account system, analytics, remote AI service, or unnecessary navigation.
+
